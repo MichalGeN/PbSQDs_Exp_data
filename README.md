@@ -1,4 +1,4 @@
-# PbSQDs_Exp_data
+# Experimental raw data (PbS/OA QDs)
 ## PL + abs
 Absorbance (Abs.txt) and photoluminescence (PLspectra) data. PL spectra are measured under 515 nm laser excitation at power densities 341 W/cm2 (PLspectra_6uW 60x2avg per 1s.txt) and 56.9 kW/cm2 (PLspectra_1mW 60x2avg per 1s.txt), respectively.
 ## TR PL
